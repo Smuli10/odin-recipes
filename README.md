@@ -9,4 +9,4 @@ This is a basic recipe website where users can find some useful recipes
 
 ## Other
 * This project is written using HTML and is my first HTML project
-* This webpage will be updated and extended later
+* This webpage will be updated later
